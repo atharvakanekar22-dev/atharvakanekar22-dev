@@ -11,7 +11,7 @@
 
 <div align="center">
 
-　[HOME](https://github.com/atharvakanekar22-dev)　 🟥 　 [PROJECTS](#selected-works)　 🟥 　 [CONTACT ↗](https://www.linkedin.com/in/atharvakanekar/)　 🟥
+　[HOME](https://github.com/atharvakanekar22-dev)　 🟥 　 [PROJECTS](#selected-works) 　 🟥 　 [OTHER WORKS](https://unsplash.com/@atharvakanekar22) 　 🟥 　 [CONTACT ↗](https://www.linkedin.com/in/atharvakanekar/)　 🟥
 
 </div>
 
