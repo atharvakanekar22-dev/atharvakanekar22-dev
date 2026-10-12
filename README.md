@@ -3,7 +3,7 @@
 <!-- Neo-Japanese editorial hero artwork.
      Upload assets/profile-hero.png to your profile repository. -->
 
-<img src="assets/profile-hero.png" alt="Atharva Kanekar — AI and Software Engineering portfolio" width="100%" />
+<img src="profile-hero.png" alt="Atharva Kanekar — AI and Software Engineering portfolio" width="100%" />
 
 </div>
 
