@@ -11,7 +11,7 @@
 
 <div align="center">
 
-　 [PROJECTS](#selected-works)　 🟥 　 [CONTACT ↗](https://www.linkedin.com/in/atharvakanekar/)　 🟥
+　[HOME](https://github.com/atharvakanekar22-dev)　 🟥 　 [PROJECTS](#selected-works)　 🟥 　 [CONTACT ↗](https://www.linkedin.com/in/atharvakanekar/)　 🟥
 
 </div>
 
@@ -20,13 +20,8 @@
 
 <div align="center">
 
-<sub>01 — SELECTED WORKS</sub>
-
-</div>
-
-
-
 ## SELECTED WORKS / 01—03
+
 
 </div>
 
