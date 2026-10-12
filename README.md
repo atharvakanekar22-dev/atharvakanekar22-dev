@@ -11,13 +11,12 @@
 
 <div align="center">
 
-[HOME](https://github.com/atharvakanekar22-dev)　 🟥 　 [PROJECTS](#selected-works)　 🟥 　 [ABOUT](#about)　 🟥 　 [CONTACT ↗](https://www.linkedin.com/in/atharvakanekar/)　 🟥
+　 [PROJECTS](#selected-works)　 🟥 　 [CONTACT ↗](https://www.linkedin.com/in/atharvakanekar/)　 🟥
 
 </div>
 
 ---
 
-<a id="selected-works"></a>
 
 <div align="center">
 
@@ -31,11 +30,12 @@
 
 </div>
 
+
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 01 / KH​​ALI-JAGAH
+### 01 / KHALI-JAGAH
 
 **AI × Mumbai Mobility**
 
@@ -43,7 +43,7 @@ AI-powered Mumbai local-train crowd intelligence, with an Android app, coach-lev
 
 `ANDROID` `KOTLIN` `NODE.JS` `GEMMA`
 
-[↗ OPEN PROJECT](https://github.com/atharvakanekar22-dev/REPLACE_WITH_KHALI_JAGAH_REPO)
+[↗ OPEN PROJECT](https://github.com/atharvakanekar22-dev/Khali-Jagah)
 
 </td>
 <td width="33%" valign="top">
@@ -56,24 +56,25 @@ A deception-based cyber threat detection platform exploring security-focused mon
 
 `CYBERSECURITY` `WEB` `THREAT DETECTION`
 
-[↗ OPEN PROJECT](https://github.com/atharvakanekar22-dev/REPLACE_WITH_MIRAGEMESH_REPO)
+[↗ OPEN PROJECT](https://miragemesh.onrender.com/overview)
 
 </td>
 <td width="33%" valign="top">
 
-### 03 / STEM LENS
+### 03 / STATION SATHI
 
-**Awareness × Product Design**
+**AI × Movie Discovery**
 
-A project exploring gender stereotypes in science, technology, engineering, and mathematics.
+A Japanese-inspired movie recommendation web app designed to help users discover films through an immersive visual experience.
 
-`STEM` `RESEARCH` `PRODUCT DESIGN`
+`REACT` `NODE.JS` `TMDB API` `WEB APP`
 
-[↗ OPEN PROJECT](https://github.com/atharvakanekar22-dev/REPLACE_WITH_STEM_LENS_REPO)
+[↗ OPEN PROJECT](https://github.com/atharvakanekar22-dev/StationSathi)
 
 </td>
 </tr>
 </table>
+
 
 <a id="about"></a>
 
