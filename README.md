@@ -30,7 +30,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### 01 / KHALI-JAGAH 🚆
+### 01 / KHALI-JAGAH 
 
 **AI × Mumbai Mobility**
 
@@ -43,7 +43,7 @@ AI-powered Mumbai local-train crowd intelligence, with an Android app, coach-lev
 </td>
 <td width="33%" valign="top">
 
-### 02 / MIRAGEMESH 🤖
+### 02 / MIRAGEMESH 
 
 **Cybersecurity × Deception**
 
@@ -56,7 +56,7 @@ A deception-based cyber threat detection platform exploring security-focused mon
 </td>
 <td width="33%" valign="top">
 
-### 03 / STATION SATHI 🚉
+### 03 / STATION SATHI 
 
 **AI × Platform Locator**
 
