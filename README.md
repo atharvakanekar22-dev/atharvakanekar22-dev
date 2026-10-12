@@ -7,12 +7,10 @@
 
 </div>
 
+
 <div align="center">
 
-[⌂ HOME](https://github.com/atharvakanekar22-dev)　·　
-[WORKS ↓](#selected-works)　·　
-[ABOUT ↓](#about)　·　
-[CONTACT ↗](https://www.linkedin.com/in/atharvakanekar/)
+[HOME](https://github.com/atharvakanekar22-dev)　　<span>✳</span>　　[PROJECTS](#selected-works)　　<span>✳</span>　　[ABOUT](#about)　　<span>✳</span>　　[CONTACT ↗](https://www.linkedin.com/in/atharvakanekar/)
 
 </div>
 
@@ -21,6 +19,11 @@
 <a id="selected-works"></a>
 
 <div align="center">
+
+<sub>01 — SELECTED WORKS</sub>
+
+</div>
+
 
 ## SELECTED WORKS / 01—03
 
