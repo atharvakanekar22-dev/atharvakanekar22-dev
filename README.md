@@ -58,9 +58,9 @@ A deception-based cyber threat detection platform exploring security-focused mon
 
 ### 03 / STATION SATHI
 
-**AI × Movie Discovery**
+**AI × Platform Locator**
 
-A Japanese-inspired movie recommendation web app designed to help users discover films through an immersive visual experience.
+A railway station navigation and facility discovery platform designed to help commuters find essential facilities and navigate stations more easily.
 
 `REACT` `NODE.JS` `TMDB API` `WEB APP`
 
