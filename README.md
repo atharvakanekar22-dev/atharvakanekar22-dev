@@ -64,7 +64,7 @@ A railway station navigation and facility discovery platform designed to help co
 
 `REACT` `NODE.JS` `TMDB API` `WEB APP`
 
-[↗ OPEN PROJECT](https://github.com/atharvakanekar22-dev/StationSathi)
+[↗ OPEN PROJECT](https://stationsathi.onrender.com/)
 
 </td>
 </tr>
