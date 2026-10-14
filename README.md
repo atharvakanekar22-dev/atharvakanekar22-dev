@@ -38,7 +38,7 @@ AI-powered Mumbai local-train crowd intelligence, with an Android app, coach-lev
 
 `ANDROID` `KOTLIN` `NODE.JS` `GEMMA`
 
-[↗ OPEN PROJECT](https://github.com/atharvakanekar22-dev/Khali-Jagah)
+[↗ OPEN PROJECT](https://github.com/atharvakanekar22-dev/Khali-Jagah/releases/tag/v1.1.0)
 
 </td>
 <td width="33%" valign="top">
