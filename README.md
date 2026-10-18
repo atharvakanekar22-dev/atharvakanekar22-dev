@@ -48,19 +48,34 @@ My current focus is on strengthening my software engineering fundamentals while 
 
 ---
 
-## Selected projects
+
+<h2>Selected projects</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/Khali-Jagah">
+        <img src="assets/khali-jagah.svg"
+             width="100%"
+             alt="Khali-Jagah — AI-powered Mumbai train crowd intelligence"/>
+      </a>
 
-      <h3>🚆 Khali-Jagah</h3>
+      <h3>
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/Khali-Jagah">
+          Khali-Jagah
+        </a>
+      </h3>
 
-      An Android application concept focused on Mumbai local-train overcrowding and AI-powered crowd intelligence.
+      <p>
+        An Android application focused on Mumbai local-train
+        overcrowding and AI-powered crowd intelligence.
+      </p>
 
-      - Station and train selection workflows.
-      - Coach-level crowd information and travel insights.
-      - AI-powered crowd analysis using Google's GenAI SDK.
+      <ul>
+        <li>Station and train selection workflows.</li>
+        <li>Coach-level crowd information and travel insights.</li>
+        <li>AI-powered crowd analysis and recommendations.</li>
+      </ul>
 
       <p>
         <code>Kotlin</code>
@@ -70,89 +85,111 @@ My current focus is on strengthening my software engineering fundamentals while 
         <code>Gemini API</code>
       </p>
 
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/Khali-Jagah">
-        <strong>Code & setup →</strong>
+      <p>
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/Khali-Jagah">
+          <strong>Code &amp; setup →</strong>
+        </a>
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/Scam-Spotter">
+        <img src="assets/scam-spotter.svg"
+             width="100%"
+             alt="Scam-Spotter — suspicious content detection workflow"/>
       </a>
 
-    </td>
-    <td width="50%" valign="top">
-
-      <h3>🛡️ Scam-Spotter</h3>
-
-      A project focused on helping users identify and assess potentially fraudulent online content.
-
-      - Present the detection workflow and supported inputs.
-      - Explain how the application evaluates suspicious indicators.
-      - Document testing, limitations, and deployment.
+      <h3>
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/Scam-Spotter">
+          Scam-Spotter
+        </a>
+      </h3>
 
       <p>
-        <code>Web Development</code>
+        A project designed to help users identify and assess
+        potentially fraudulent online content.
+      </p>
+
+      <ul>
+        <li>Analyze suspicious indicators.</li>
+        <li>Present results in a clear, usable interface.</li>
+        <li>Document testing and known limitations.</li>
+      </ul>
+
+      <p>
         <code>AI</code>
+        <code>Web Development</code>
         <code>Security</code>
       </p>
 
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/Scam-Spotter">
-        <strong>Code & setup →</strong>
-      </a>
-
+      <p>
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/Scam-Spotter">
+          <strong>Code &amp; setup →</strong>
+        </a>
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/EduAdapt">
+        <img src="assets/eduadapt.svg"
+             width="100%"
+             alt="EduAdapt — adaptive learning and AI tutoring"/>
+      </a>
 
-      <h3>🎓 EduAdapt</h3>
+      <h3>
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/EduAdapt">
+          EduAdapt
+        </a>
+      </h3>
 
-      An adaptive learning platform concept designed to personalize learning experiences.
+      <p>
+        An adaptive learning platform with a mastery engine
+        and a Socratic AI tutor.
+      </p>
 
-      - Mastery Engine for adaptive learning.
-      - Socratic AI Tutor powered by the Gemini API.
-      - Web application architecture with a backend and database.
+      <ul>
+        <li>Personalized learning experiences.</li>
+        <li>AI-assisted conceptual learning.</li>
+      </ul>
 
       <p>
         <code>React</code>
         <code>Next.js</code>
         <code>Node.js</code>
-        <code>Express</code>
         <code>MongoDB</code>
       </p>
 
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/EduAdapt">
-        <strong>Code & setup →</strong>
-      </a>
-
+      <p>
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/EduAdapt">
+          <strong>Code &amp; setup →</strong>
+        </a>
+      </p>
     </td>
+
     <td width="50%" valign="top">
-
-      <h3>🎬 MovieBuzz</h3>
-
-      A movie discovery and recommendation website concept inspired by cinematic aesthetics.
-
-      - Explore movie recommendations.
-      - Build an engaging, responsive interface.
-      - Organize films by language, genre, and preferences.
+      <h3>🚀 More projects</h3>
 
       <p>
-        <code>React</code>
-        <code>JavaScript</code>
-        <code>CSS</code>
-        <code>APIs</code>
+        Explore my other projects, experiments, and
+        contributions to software development.
       </p>
 
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/MovieBuzz">
-        <strong>Code & setup →</strong>
-      </a>
+      <ul>
+        <li>Web applications</li>
+        <li>AI and machine learning experiments</li>
+        <li>Android development</li>
+      </ul>
 
+      <p>
+        <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+          <strong>Browse all repositories →</strong>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <strong>Browse all repositories →</strong>
-  </a>
-</p>
-
----
 
 ## 💻 Tech stack
 
