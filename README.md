@@ -47,11 +47,12 @@ My work spans Android (Kotlin, Flutter), full-stack web development (TypeScript,
 <img src="./khali-jagah.svg" width="100%" alt="Khali-Jagah — AI-powered Mumbai train crowd intelligence">
 </a>
 
-### 🚆 Khali-Jagah
+### 🚂 Khali-Jagah
 
-AI-powered Mumbai local-train crowd intelligence with coach-level crowd information and AI travel insights.
+An Android application designed to help Mumbai local commuters make informed travel decisions through AI-powered crowd intelligence, station and train selection, and coach-level crowd analysis.
 
-`Kotlin` `Jetpack Compose` `Node.js` `Gemini API`
+
+`Kotlin` `Jetpack Compose` `MVVM` `Retrofit` `Node.js` `Express.js` `Google GenAI SDK` `Gemma`
 
 [**Repository →**](https://github.com/atharvakanekar22-dev/Khali-Jagah) · [**Download APK →**](https://github.com/atharvakanekar22-dev/Khali-Jagah/releases/tag/v1.1.0)
 
@@ -64,9 +65,8 @@ AI-powered Mumbai local-train crowd intelligence with coach-level crowd informat
 
 ### 🛡️ Sus Scam Detector
 
-A cybersecurity project focused on identifying suspicious content and helping users assess potential online scams.
-
-`Cybersecurity` `Web Development` `AI`
+A web-based cybersecurity application that helps users assess potentially fraudulent online content by identifying suspicious indicators and presenting insights to support safer digital decision-making.
+`TypeScript` `React` `Node.js` `Express.js` `AI Integration` `Cybersecurity`
 
 [**Repository →**](https://github.com/atharvakanekar22-dev/sus-scam-detector) · [**Live Demo ↗**](https://sus-scam-detector-4vsz.onrender.com/)
 
@@ -79,12 +79,11 @@ A cybersecurity project focused on identifying suspicious content and helping us
 <img src="./stationsathi.svg" width="100%" alt="StationSathi project">
 </a>
 
-### 🎬 StationSathi
+### 🚉 StationSathi
 
-A movie discovery and recommendation experience designed to help users explore films.
+An Indoor railway-station assistance platform designed to simplify station navigation and improve the passenger experience by making station-related information easier to access.
 
-`React` `JavaScript` `Web Development`
-
+`React` `Vite` `JavaScript` `Python` `FastAPI` `Tailwind CSS` `Dijkstra's Algorithm` 
 [**Repository →**](https://github.com/atharvakanekar22-dev/StationSathi) · [**Live Demo ↗**](https://stationsathi.onrender.com/)
 
 </td>
@@ -96,9 +95,9 @@ A movie discovery and recommendation experience designed to help users explore f
 
 ### 🌐 MirageMesh
 
-A software project exploring web technologies and practical application development.
+A web-based software project focused on developing a structured, user-facing application with an emphasis on practical functionality, maintainable implementation, and a clear user experience.
 
-`Software Engineering` `Web Development`
+`TypeScript` `React` `Node.js` `Express.js` `MongoDB`
 
 [**Repository →**](https://github.com/atharvakanekar22-dev/MirageMesh) · [**Live Demo ↗**](https://miragemesh.onrender.com/)
 
