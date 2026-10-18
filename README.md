@@ -17,16 +17,6 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software-2563EB?style=flat-square" alt="AI and software development"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+Developer;Building+AI-powered+applications;Learning+by+building+real+projects;Turning+ideas+into+working+software" alt="Developer introduction"/>
 </p>
 
@@ -37,12 +27,9 @@ My work spans Android (Kotlin, Flutter), full-stack web development (TypeScript,
 
 
 <p align="center">
-  <a href="www.linkedin.com/in/atharvakanekar"><strong>Let's Connect</strong></a>
-  &nbsp; / &nbsp;
-  
-  <a href="https://unsplash.com/@atharvakanekar22"><strong>Other Works</strong></a>
-  &nbsp; / &nbsp;
- 
+  <a href="https://www.linkedin.com/in/atharvakanekar/"><strong>Let's Connect ↗</strong></a>
+  &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://unsplash.com/@atharvakanekar22"><strong>Other Works ↗</strong></a>
 </p>
 
 ---
@@ -50,9 +37,7 @@ My work spans Android (Kotlin, Flutter), full-stack web development (TypeScript,
 
 
 
-## Selected Projects
-
-Building practical software across AI, cybersecurity, Android, and web development — turning ideas into useful applications.
+<h2 align="center">Selected Projects</h2>
 
 <table>
 <tr>
@@ -123,7 +108,6 @@ A software project exploring web technologies and practical application developm
 
 ---
 
-[**Explore all repositories →**](https://github.com/atharvakanekar22-dev?tab=repositories)
 <p align="center">
   <a href="https://github.com/atharvakanekar22-dev?tab=repositories">
     <strong>Explore All My Repositories →</strong>
