@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
+  <title id="title">URBAN MOBILITY / CROWD INTELLIGENCE</title>
+  <desc id="desc">Minimal terminal-style project workflow diagram.</desc>
+  <rect width="720" height="190" rx="12" fill="#0D141B"/>
+  <rect x="1" y="1" width="718" height="188" rx="11" fill="none" stroke="#263642"/>
+  <rect x="1" y="1" width="718" height="4" rx="2" fill="#6EE7C8"/>
+  <text x="28" y="34" fill="#6EE7C8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1.4">01  /  URBAN MOBILITY / CROWD INTELLIGENCE</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#E6EDF3" text-anchor="middle">
+    <rect x="28" y="58" width="184" height="53" rx="7" fill="#17232D" stroke="#2B3C49"/>
+    <rect x="268" y="58" width="184" height="53" rx="7" fill="#17232D" stroke="#2B3C49"/>
+    <rect x="508" y="58" width="184" height="53" rx="7" fill="#17232D" stroke="#2B3C49"/>
+    <text x="120" y="90">Station</text>
+    <text x="360" y="90">Crowd map</text>
+    <text x="600" y="90">Travel insight</text>
+  </g>
+  <g fill="#6EE7C8" font-family="Arial, sans-serif" font-size="25" text-anchor="middle">
+    <text x="240" y="92">→</text>
+    <text x="480" y="92">→</text>
+  </g>
+  <text x="28" y="151" fill="#A8B7C5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing=".4">MUMBAI LOCAL  •  COACH-LEVEL SIGNALS</text>
+  <circle cx="677" cy="151" r="3" fill="#6EE7C8"/>
+</svg>
