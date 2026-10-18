@@ -125,46 +125,13 @@ Technologies I use or am exploring across my academic work and projects.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
----
-
-## Engineering principles
-
-- **Build for real problems.** Choose project ideas that address practical user needs.
-- **Keep systems understandable.** Document architecture, API contracts, and important implementation decisions.
-- **Test before claiming.** Verify workflows and communicate known limitations honestly.
-- **Use AI responsibly.** Validate generated output and distinguish prototypes from production-ready systems.
-- **Learn by building.** Strengthen fundamentals through implementation, debugging, and iteration.
 
 ---
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub profile statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Most-used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub contribution streak"
-  />
-</p>
-
----
 
 ## Let's connect
 
-I'm interested in learning from developers, collaborating on meaningful projects, participating in hackathons, and exploring opportunities to grow as a software engineer.
+I'm interested in learning from developers, collaborating on meaningful projects, participating in hackathons and exploring opportunities to grow as a software engineer.
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
