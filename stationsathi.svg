@@ -1,22 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
-  <title id="title">DISCOVERY / MOVIE RECOMMENDATIONS</title>
-  <desc id="desc">Minimal terminal-style project workflow diagram.</desc>
-  <rect width="720" height="190" rx="12" fill="#0D141B"/>
-  <rect x="1" y="1" width="718" height="188" rx="11" fill="none" stroke="#263642"/>
-  <rect x="1" y="1" width="718" height="4" rx="2" fill="#C4B5FD"/>
-  <text x="28" y="34" fill="#C4B5FD" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1.4">03  /  DISCOVERY / MOVIE RECOMMENDATIONS</text>
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#E6EDF3" text-anchor="middle">
-    <rect x="28" y="58" width="184" height="53" rx="7" fill="#17232D" stroke="#2B3C49"/>
-    <rect x="268" y="58" width="184" height="53" rx="7" fill="#17232D" stroke="#2B3C49"/>
-    <rect x="508" y="58" width="184" height="53" rx="7" fill="#17232D" stroke="#2B3C49"/>
-    <text x="120" y="90">Discover</text>
-    <text x="360" y="90">Explore films</text>
-    <text x="600" y="90">Find a story</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="140" viewBox="0 0 530 140" fill="none">
+  <rect x="1" y="1" width="528" height="138" rx="9" fill="#0D141C" stroke="#263443" stroke-width="1.2"/>
+  <path d="M10 1.5H520" stroke="#B7A2FF" stroke-width="2" stroke-linecap="round"/>
+  <text x="20" y="25" fill="#B7A2FF" font-family="monospace" font-size="9" font-weight="700" letter-spacing="1.6">03 / STATION NAVIGATION / MUMBAI RAILWAYS</text>
+
+  <!-- Station map card -->
+  <rect x="20" y="42" width="145" height="40" rx="5" fill="#17232D" stroke="#2B3A49"/>
+  <g transform="translate(31 51)" stroke="#8AB4F8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1 5H20M1 13H20M5 1V17M16 1V17" opacity=".85"/>
+    <circle cx="10.5" cy="9" r="3.1" fill="#0D141C" stroke="#B7A2FF"/>
   </g>
-  <g fill="#C4B5FD" font-family="Arial, sans-serif" font-size="25" text-anchor="middle">
-    <text x="240" y="92">→</text>
-    <text x="480" y="92">→</text>
+  <text x="61" y="66" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="12">Find a station</text>
+
+  <path d="M174 62H192M187 57L192 62L187 67" stroke="#B7A2FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Facility discovery card -->
+  <rect x="202" y="42" width="145" height="40" rx="5" fill="#17232D" stroke="#2B3A49"/>
+  <g transform="translate(214 51)" stroke="#8AB4F8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 2H15V17H3Z"/>
+    <path d="M6 6H12M6 9H12M6 12H10"/>
   </g>
-  <text x="28" y="151" fill="#A8B7C5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing=".4">MOVIE DISCOVERY  •  PERSONAL EXPLORATION</text>
-  <circle cx="677" cy="151" r="3" fill="#C4B5FD"/>
+  <text x="241" y="66" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="12">Find facilities</text>
+
+  <path d="M356 62H374M369 57L374 62L369 67" stroke="#B7A2FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Route planning card -->
+  <rect x="384" y="42" width="125" height="40" rx="5" fill="#17232D" stroke="#2B3A49"/>
+  <g transform="translate(395 51)" stroke="#B7A2FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="3" cy="3" r="2" fill="#0D141C"/>
+    <circle cx="16" cy="14" r="2" fill="#0D141C"/>
+    <path d="M5 4.5C8 6 7 11 12 12.5L14 13"/>
+  </g>
+  <text x="421" y="66" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="12">Plan a route</text>
+
+  <text x="20" y="111" fill="#9AAABD" font-family="monospace" font-size="8.5" letter-spacing=".6">INTERACTIVE MAPS  •  ACCESSIBLE ROUTES  •  STATION SERVICES</text>
+  <circle cx="499" cy="111" r="2.2" fill="#B7A2FF"/>
 </svg>
