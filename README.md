@@ -30,20 +30,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+Developer;Building+AI-powered+applications;Learning+by+building+real+projects;Turning+ideas+into+working+software" alt="Developer introduction"/>
 </p>
 
-I am an **MCA student and aspiring software developer** interested in artificial intelligence, full-stack development, Android applications, and solving practical problems through technology.
+I am an MCA student in Mumbai, specializing in AI/ML. I build software for problems I see around me: crowded local trains, confusing railway stations and increasingly convincing online scams.
 
-I enjoy taking an idea from concept to implementation — designing interfaces, building APIs, connecting databases, integrating AI models, and testing the complete application.
+My work spans Android (Kotlin, Flutter), full-stack web development (TypeScript, React, Node.js), and Python backends. I prefer owning a project end to end: interface, API, database, model integration, and testing.
 
-My current focus is on strengthening my software engineering fundamentals while building projects that demonstrate practical problem-solving, experimentation, and continuous learning.
+
 
 <p align="center">
-  <a href="#selected-projects"><strong>Projects</strong></a>
+  <a href="www.linkedin.com/in/atharvakanekar"><strong>Let's Connect</strong></a>
   &nbsp; / &nbsp;
-  <a href="#tech-stack"><strong>Tech stack</strong></a>
+  
+  <a href="https://unsplash.com/@atharvakanekar22"><strong>Other Works</strong></a>
   &nbsp; / &nbsp;
-  <a href="#engineering-principles"><strong>Engineering</strong></a>
-  &nbsp; / &nbsp;
-  <a href="#lets-connect"><strong>Connect</strong></a>
+ 
 </p>
 
 ---
