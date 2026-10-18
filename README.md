@@ -50,36 +50,135 @@ My current focus is on strengthening my software engineering fundamentals while 
 
 
 
-<h2>Selected projects</h2>
+
+<h2>Selected Projects</h2>
+
+<p>
+  Building practical software across AI, cybersecurity, Android,
+  and web development — turning ideas into useful applications.
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
+
       <h3>🚆 Khali-Jagah</h3>
-      <p>AI-powered Mumbai local-train crowd intelligence.</p>
+
+      <p>
+        An Android application focused on Mumbai local-train
+        overcrowding, coach-level crowd intelligence, and
+        AI-powered travel insights.
+      </p>
+
       <p>
         <code>Kotlin</code>
         <code>Jetpack Compose</code>
         <code>Node.js</code>
+        <code>Express</code>
+        <code>Gemini API</code>
       </p>
-      <a href="https://github.com/atharvakanekar22-dev">
-        Code &amp; setup →
-      </a>
+
+      <p>
+        <a href="https://github.com/atharvakanekar22-dev/Khali-Jagah">
+          <strong>⌘ Repository</strong>
+        </a>
+        &nbsp; · &nbsp;
+        <a href="https://github.com/atharvakanekar22-dev/Khali-Jagah/releases/tag/v1.1.0">
+          <strong>↓ Download APK</strong>
+        </a>
+      </p>
+
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Scam-Spotter</h3>
-      <p>A project focused on identifying potentially fraudulent content.</p>
+
+      <h3>🛡️ Sus Scam Detector</h3>
+
       <p>
-        <code>AI</code>
-        <code>Web Development</code>
-        <code>Security</code>
+        A cybersecurity project focused on identifying suspicious
+        content and helping users assess potential online scams.
       </p>
-      <a href="https://github.com/atharvakanekar22-dev">
-        Code &amp; setup →
-      </a>
+
+      <p>
+        <code>Cybersecurity</code>
+        <code>Web Development</code>
+        <code>Detection</code>
+      </p>
+
+      <p>
+        <a href="https://github.com/atharvakanekar22-dev/sus-scam-detector">
+          <strong>⌘ Repository</strong>
+        </a>
+        &nbsp; · &nbsp;
+        <a href="https://sus-scam-detector-4vsz.onrender.com/">
+          <strong>↗ Live Demo</strong>
+        </a>
+      </p>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+      <h3>🎬 StationSathi</h3>
+
+      <p>
+        A movie discovery and recommendation website designed
+        to help users explore films through an engaging interface.
+      </p>
+
+      <p>
+        <code>JavaScript</code>
+        <code>React</code>
+        <code>UI/UX</code>
+        <code>Web Development</code>
+      </p>
+
+      <p>
+        <a href="https://github.com/atharvakanekar22-dev/StationSathi">
+          <strong>⌘ Repository</strong>
+        </a>
+        &nbsp; · &nbsp;
+        <a href="https://stationsathi.onrender.com/">
+          <strong>↗ Live Demo</strong>
+        </a>
+      </p>
+
+    </td>
+    <td width="50%" valign="top">
+
+      <h3>🕸️ MirageMesh</h3>
+
+      <p>
+        Explore MirageMesh, its core implementation, and technical
+        approach through the project repository and live application.
+      </p>
+
+      <p>
+        <code>Software Development</code>
+        <code>Web Application</code>
+      </p>
+
+      <p>
+        <a href="https://github.com/atharvakanekar22-dev/MirageMesh">
+          <strong>⌘ Repository</strong>
+        </a>
+        &nbsp; · &nbsp;
+        <a href="https://miragemesh.onrender.com/">
+          <strong>↗ Live Demo</strong>
+        </a>
+      </p>
+
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/atharvakanekar22-dev?tab=repositories">
+    <strong>Explore All My Repositories →</strong>
+  </a>
+</p>
+
 
 
 
