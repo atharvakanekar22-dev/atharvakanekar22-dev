@@ -49,147 +49,38 @@ My current focus is on strengthening my software engineering fundamentals while 
 ---
 
 
+
 <h2>Selected projects</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/Khali-Jagah">
-        <img src="assets/khali-jagah.svg"
-             width="100%"
-             alt="Khali-Jagah — AI-powered Mumbai train crowd intelligence"/>
-      </a>
-
-      <h3>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/Khali-Jagah">
-          Khali-Jagah
-        </a>
-      </h3>
-
-      <p>
-        An Android application focused on Mumbai local-train
-        overcrowding and AI-powered crowd intelligence.
-      </p>
-
-      <ul>
-        <li>Station and train selection workflows.</li>
-        <li>Coach-level crowd information and travel insights.</li>
-        <li>AI-powered crowd analysis and recommendations.</li>
-      </ul>
-
+      <h3>🚆 Khali-Jagah</h3>
+      <p>AI-powered Mumbai local-train crowd intelligence.</p>
       <p>
         <code>Kotlin</code>
         <code>Jetpack Compose</code>
         <code>Node.js</code>
-        <code>Express</code>
-        <code>Gemini API</code>
       </p>
-
-      <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/Khali-Jagah">
-          <strong>Code &amp; setup →</strong>
-        </a>
-      </p>
-    </td>
-
-    <td width="50%" valign="top">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/Scam-Spotter">
-        <img src="assets/scam-spotter.svg"
-             width="100%"
-             alt="Scam-Spotter — suspicious content detection workflow"/>
+      <a href="https://github.com/atharvakanekar22-dev">
+        Code &amp; setup →
       </a>
-
-      <h3>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/Scam-Spotter">
-          Scam-Spotter
-        </a>
-      </h3>
-
-      <p>
-        A project designed to help users identify and assess
-        potentially fraudulent online content.
-      </p>
-
-      <ul>
-        <li>Analyze suspicious indicators.</li>
-        <li>Present results in a clear, usable interface.</li>
-        <li>Document testing and known limitations.</li>
-      </ul>
-
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Scam-Spotter</h3>
+      <p>A project focused on identifying potentially fraudulent content.</p>
       <p>
         <code>AI</code>
         <code>Web Development</code>
         <code>Security</code>
       </p>
-
-      <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/Scam-Spotter">
-          <strong>Code &amp; setup →</strong>
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/EduAdapt">
-        <img src="assets/eduadapt.svg"
-             width="100%"
-             alt="EduAdapt — adaptive learning and AI tutoring"/>
+      <a href="https://github.com/atharvakanekar22-dev">
+        Code &amp; setup →
       </a>
-
-      <h3>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/EduAdapt">
-          EduAdapt
-        </a>
-      </h3>
-
-      <p>
-        An adaptive learning platform with a mastery engine
-        and a Socratic AI tutor.
-      </p>
-
-      <ul>
-        <li>Personalized learning experiences.</li>
-        <li>AI-assisted conceptual learning.</li>
-      </ul>
-
-      <p>
-        <code>React</code>
-        <code>Next.js</code>
-        <code>Node.js</code>
-        <code>MongoDB</code>
-      </p>
-
-      <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/EduAdapt">
-          <strong>Code &amp; setup →</strong>
-        </a>
-      </p>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🚀 More projects</h3>
-
-      <p>
-        Explore my other projects, experiments, and
-        contributions to software development.
-      </p>
-
-      <ul>
-        <li>Web applications</li>
-        <li>AI and machine learning experiments</li>
-        <li>Android development</li>
-      </ul>
-
-      <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-          <strong>Browse all repositories →</strong>
-        </a>
-      </p>
     </td>
   </tr>
 </table>
+
 
 ## 💻 Tech stack
 
