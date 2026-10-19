@@ -95,7 +95,7 @@ An Indoor railway-station assistance platform designed to simplify station navig
 
 ### 🌐 MirageMesh
 
-A web-based software project focused on developing a structured, user-facing application with an emphasis on practical functionality, maintainable implementation, and a clear user experience.
+A deception-based cybersecurity platform that uses synthetic decoys and honeytokens to detect suspicious activity, correlate security events, and assess potential threats through deterministic risk scoring. Features attack simulation, incident investigation, telemetry monitoring, and simulated containment actions.
 
 `TypeScript` `React` `Node.js` `Express.js` `MongoDB`
 
