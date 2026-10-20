@@ -90,7 +90,7 @@ An Indoor railway-station assistance platform designed to simplify station navig
 <td width="50%" valign="top">
 
 <a href="https://github.com/atharvakanekar22-dev/MirageMesh">
-<img src="./miragemesh.svg" width="100%" alt="MirageMesh project">
+<img src="./miragemesh1.svg" width="100%" alt="MirageMesh project">
 </a>
 
 ### 🌐 MirageMesh
