@@ -1,22 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
-  <title id="title">SOFTWARE / MIRAGEMESH</title>
-  <desc id="desc">Minimal terminal-style project workflow diagram.</desc>
-  <rect width="720" height="190" rx="12" fill="#0D141B"/>
-  <rect x="1" y="1" width="718" height="188" rx="11" fill="none" stroke="#263642"/>
-  <rect x="1" y="1" width="718" height="4" rx="2" fill="#F9A8D4"/>
-  <text x="28" y="34" fill="#F9A8D4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1.4">04  /  SOFTWARE / MIRAGEMESH</text>
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#E6EDF3" text-anchor="middle">
-    <rect x="28" y="58" width="184" height="53" rx="7" fill="#17232D" stroke="#2B3C49"/>
-    <rect x="268" y="58" width="184" height="53" rx="7" fill="#17232D" stroke="#2B3C49"/>
-    <rect x="508" y="58" width="184" height="53" rx="7" fill="#17232D" stroke="#2B3C49"/>
-    <text x="120" y="90">Input</text>
-    <text x="360" y="90">Process</text>
-    <text x="600" y="90">Output</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="150" viewBox="0 0 560 150" fill="none">
+  <rect x="1" y="1" width="558" height="148" rx="9" fill="#0D141C" stroke="#2B3442" stroke-width="1.2"/>
+  <path d="M10 1.5H550" stroke="#F08BCB" stroke-width="2" stroke-linecap="round"/>
+  <text x="22" y="25" fill="#F08BCB" font-family="monospace" font-size="9" font-weight="700" letter-spacing="1.5">04 / CYBERSECURITY / MIRAGEMESH</text>
+  <rect x="22" y="43" width="150" height="48" rx="6" fill="#17232D" stroke="#344252"/>
+  <g transform="translate(35 54)" stroke="#8CC8FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2 5L12 0L22 5V17L12 22L2 17Z"/><path d="M2 5L12 11L22 5M12 11V22"/>
+    <circle cx="12" cy="11" r="2" fill="#0D141C" stroke="#F08BCB"/>
   </g>
-  <g fill="#F9A8D4" font-family="Arial, sans-serif" font-size="25" text-anchor="middle">
-    <text x="240" y="92">→</text>
-    <text x="480" y="92">→</text>
+  <text x="70" y="63" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600">Deploy decoys</text>
+  <text x="70" y="77" fill="#9AAABD" font-family="monospace" font-size="8">Honeytokens</text>
+  <path d="M181 67H199M194 62L199 67L194 72" stroke="#F08BCB" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="209" y="43" width="150" height="48" rx="6" fill="#17232D" stroke="#344252"/>
+  <g transform="translate(221 54)" stroke="#8CC8FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="10" cy="10" r="8"/><path d="M16 16L22 22M6 10H14M10 6V14"/>
   </g>
-  <text x="28" y="151" fill="#A8B7C5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing=".4">PROJECT OVERVIEW  •  IMPLEMENTATION</text>
-  <circle cx="677" cy="151" r="3" fill="#F9A8D4"/>
+  <text x="251" y="63" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600">Detect activity</text>
+  <text x="251" y="77" fill="#9AAABD" font-family="monospace" font-size="8">Event correlation</text>
+  <path d="M368 67H386M381 62L386 67L381 72" stroke="#F08BCB" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="396" y="43" width="142" height="48" rx="6" fill="#17232D" stroke="#344252"/>
+  <g transform="translate(408 54)" stroke="#F08BCB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M11 0L21 4V11C21 17 16 21 11 23C6 21 1 17 1 11V4Z"/><path d="M7 11L10 14L16 8"/>
+  </g>
+  <text x="437" y="63" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600">Score threats</text>
+  <text x="437" y="77" fill="#9AAABD" font-family="monospace" font-size="8">Risk assessment</text>
+  <text x="22" y="119" fill="#9AAABD" font-family="monospace" font-size="8.5" letter-spacing=".55">CYBER DECEPTION  •  TELEMETRY  •  INCIDENT INVESTIGATION</text>
+  <circle cx="529" cy="119" r="2.2" fill="#F08BCB"/>
 </svg>
