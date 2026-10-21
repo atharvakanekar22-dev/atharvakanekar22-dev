@@ -52,7 +52,7 @@ My work spans Android (Kotlin, Flutter), full-stack web development (TypeScript,
 An Android application designed to help Mumbai local commuters make informed travel decisions through AI-powered crowd intelligence, station and train selection, and coach-level crowd analysis.
 
 
-`Kotlin` `Jetpack Compose` `MVVM` `Retrofit` `Node.js` `Express.js` `Google GenAI SDK` `Gemma`
+`Kotlin` `Jetpack Compose` `MVVM` `Retrofit` `Node.js` `Express.js` `Google GenAI SDK` `Gemma 4`
 
 [**Repository →**](https://github.com/atharvakanekar22-dev/Khali-Jagah) · [**Download APK →**](https://github.com/atharvakanekar22-dev/Khali-Jagah/releases/tag/v1.1.0)
 
@@ -84,6 +84,7 @@ A web-based cybersecurity application that helps users assess potentially fraudu
 An Indoor railway-station assistance platform designed to simplify station navigation and improve the passenger experience by making station-related information easier to access.
 
 `React` `Vite` `JavaScript` `Python` `FastAPI` `Tailwind CSS` `Dijkstra's Algorithm` 
+
 [**Repository →**](https://github.com/atharvakanekar22-dev/StationSathi) · [**Live Demo ↗**](https://stationsathi.onrender.com/)
 
 </td>
