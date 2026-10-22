@@ -28,7 +28,7 @@ My work spans Android (Kotlin, Flutter), full-stack web development (TypeScript,
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharvakanekar/"><strong>Let's Connect ↗</strong></a>
-  &nbsp;&nbsp; · &nbsp;&nbsp;
+  &nbsp;&nbsp; x &nbsp;&nbsp;
   <a href="https://unsplash.com/@atharvakanekar22"><strong>Other Works ↗</strong></a>
 </p>
 
